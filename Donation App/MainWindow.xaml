@@ -1,0 +1,20 @@
+﻿<Window x:Class="Lab4.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Donation App" Height="445.223" Width="332.555" IsTabStop="False">
+    <Grid Margin="0,0,2,-2">
+        <TextBox x:Name="daTextbox" HorizontalAlignment="Left" Height="23" Margin="173,43,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="100" FontSize="14" TabIndex="1"/>
+
+        <Button x:Name="donateButton" Content="Donate" HorizontalAlignment="Left" Margin="125,357,0,0" VerticalAlignment="Top" Width="75" FontSize="14" Click="donateButton_Click" TabIndex="3"/>
+        <Label x:Name="daLabel" Content="Donation Amount:" HorizontalAlignment="Left" Margin="44,37,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <TextBlock x:Name="aeTextblock" HorizontalAlignment="Left" Margin="189,204,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" FontSize="14"/>
+        <TextBlock x:Name="trTextblock" HorizontalAlignment="Left" Margin="189,242,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" FontSize="14" RenderTransformOrigin="0.8,0.561"/>
+        <Label x:Name="aeLabel" Content="After Expenses:" HorizontalAlignment="Left" Margin="65,199,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <Label x:Name="trLabel" Content="Total Raised:" HorizontalAlignment="Left" Margin="65,237,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <Label x:Name="nameLabel" Content="Name:" HorizontalAlignment="Left" Margin="44,88,0,0" VerticalAlignment="Top" FontSize="14"/>
+        <TextBox x:Name="daTextbox_Copy" HorizontalAlignment="Left" Height="23" Margin="99,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="140" FontSize="14"/>
+        <TextBlock x:Name="msgTextblock" HorizontalAlignment="Center" Margin="44,299,42,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" FontSize="14" RenderTransformOrigin="0.8,0.561" Width="195" TextAlignment="Center"/>
+        <TextBox x:Name="nameTextBox" HorizontalAlignment="Left" Height="23" Margin="99,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="174" FontSize="14" TabIndex="2"/>
+
+    </Grid>
+</Window>
