@@ -1,0 +1,13 @@
+F:\Documents\Development\Projects\DonationApp\DonationApp\bin\Debug\DonationApp.exe.config
+F:\Documents\Development\Projects\DonationApp\DonationApp\bin\Debug\DonationApp.exe
+F:\Documents\Development\Projects\DonationApp\DonationApp\bin\Debug\DonationApp.pdb
+F:\Documents\Development\Projects\DonationApp\DonationApp\obj\Debug\DonationApp.csprojResolveAssemblyReference.cache
+F:\Documents\Development\Projects\DonationApp\DonationApp\obj\Debug\MainWindow.baml
+F:\Documents\Development\Projects\DonationApp\DonationApp\obj\Debug\MainWindow.g.cs
+F:\Documents\Development\Projects\DonationApp\DonationApp\obj\Debug\App.g.cs
+F:\Documents\Development\Projects\DonationApp\DonationApp\obj\Debug\DonationApp_MarkupCompile.cache
+F:\Documents\Development\Projects\DonationApp\DonationApp\obj\Debug\DonationApp.g.resources
+F:\Documents\Development\Projects\DonationApp\DonationApp\obj\Debug\DonationApp.Properties.Resources.resources
+F:\Documents\Development\Projects\DonationApp\DonationApp\obj\Debug\DonationApp.csproj.GenerateResource.Cache
+F:\Documents\Development\Projects\DonationApp\DonationApp\obj\Debug\DonationApp.exe
+F:\Documents\Development\Projects\DonationApp\DonationApp\obj\Debug\DonationApp.pdb
